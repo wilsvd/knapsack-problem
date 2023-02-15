@@ -1,0 +1,11 @@
+MultiMemetic
+MultiMemetic.CrossoverHeuristics
+MultiMemetic.Inherit
+MultiMemetic.Memes
+MultiMemetic.Mutation
+MultiMemetic.PopulationHeuristics
+MultiMemetic.Problem
+MultiMemetic.Reader
+MultiMemetic.Replacement
+MultiMemetic.Selection
+MultiMemetic.Writer

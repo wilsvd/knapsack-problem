@@ -2,13 +2,11 @@
 
 ## Setup and Running
 
-### Moodle
-1. Download project files from moodle.
-
 ### IntelliJ
 
 #### Standard setup:
-1. Open IntelliJ and `Welcome to IntelliJ Screen` will be displayed. If it 
+
+1. Open IntelliJ and `Welcome to IntelliJ Screen` will be displayed. If it
    is not displayed, check alternative.
 2. Click on `New Project`
 3. Select the latest SDK. I am using `openjdk-17`.
@@ -29,9 +27,11 @@
 18. To run the project again, look at step 10 and 11.
 
 #### Alternative setup:
+
 There are two alternative methods to set up the project.
 
 Alternative 1:
+
 1. Open IntelliJ
 2. Click on `File` in the top left.
 3. Select `New` and click `Project`.
@@ -53,6 +53,7 @@ Alternative 1:
 19. To run the project again, look at step 11 and 12.
 
 Alternative 2:
+
 1. Open IntelliJ
 2. Click on `File` in the top left.
 3. Select `Open`.
@@ -69,8 +70,8 @@ Alternative 2:
 14. Change the values to the test instance you want to test.
 15. To run the project again, look at step 7 and 8.
 
-
 ### Eclipse
+
 1. Open Eclipse
 2. Select a workspace and click `Launch`
 3. Click on `File` in the top left.
@@ -90,4 +91,3 @@ Alternative 2:
 17. Find `FILE_TYPE` and `INSTANCE_NUM`.
 18. Change the values to the test instance you want to test.
 19. To run the project again, look at step 10 and 11.
-
